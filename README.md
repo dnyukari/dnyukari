@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b style="color: #9C27B0;">💻 Estudante de Engenharia de Software | Designer de Interface | Edição de Conteúdo</b>
+  <b style="color: #9C27B0;">💻 Estudante de Engenharia de Software | Designer de Interface | Edição e Marketing</b>
 </p>
 
 ---
